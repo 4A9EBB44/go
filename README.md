@@ -1,4 +1,4 @@
-# Golang official Gobook demo with exercise changes.
+# Golang Official Gobook Demos with Exercise Changes
 # The Go Programming Language
 
 This repository provides the downloadable example programs
